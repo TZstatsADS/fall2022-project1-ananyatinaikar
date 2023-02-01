@@ -7,7 +7,7 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
-Term: Fall 2022
+Term: Spring 2023
 
 + Project title: A Tale of Two Futures: A Comparison of Communist vs. Capitalist Philosophers
 + This project is conducted by Ananya Tinaikar 
